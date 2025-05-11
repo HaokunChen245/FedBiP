@@ -1,8 +1,3 @@
-# FedBiP
-
-[CVPR 2025] FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models
-
-
 # FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models
 
 This is the official code repository for the CVPR 2025 paper titled "FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models". Please do not hesitate to reach out for any questions.
