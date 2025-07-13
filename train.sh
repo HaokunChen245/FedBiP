@@ -10,7 +10,7 @@ else
 fi
 
 idx=0
-TRAIN_TYPE=fedlip_prompt
+TRAIN_TYPE=prompt
 for domain in "${domains[@]}"
 do
     echo "Training domain: $domain"
